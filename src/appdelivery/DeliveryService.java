@@ -4,11 +4,6 @@ package appdelivery;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author Esteban QR
- */
-// Clase para representar el servicio de delivery
 class DeliveryService {
     private final List<Pedido> pedidosEnEspera;
     
